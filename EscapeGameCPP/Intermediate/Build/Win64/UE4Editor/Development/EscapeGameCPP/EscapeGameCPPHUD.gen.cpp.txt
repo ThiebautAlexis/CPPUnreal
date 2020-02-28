@@ -1,0 +1,10 @@
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\Definitions.EscapeGameCPP.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Source\EscapeGameCPP/EscapeGameCPPHUD.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+c:\users\brassart_s03_alien3\documents\unreal projects\cppunreal\escapegamecpp\intermediate\build\win64\ue4editor\inc\escapegamecpp\EscapeGameCPPHUD.generated.h

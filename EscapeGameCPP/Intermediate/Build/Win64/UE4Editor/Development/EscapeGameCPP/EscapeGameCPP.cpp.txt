@@ -1,0 +1,2 @@
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\Definitions.EscapeGameCPP.h
+c:\users\brassart_s03_alien3\documents\unreal projects\cppunreal\escapegamecpp\source\escapegamecpp\EscapeGameCPP.h

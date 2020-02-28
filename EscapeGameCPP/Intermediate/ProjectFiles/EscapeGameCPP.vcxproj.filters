@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\EscapeGameCPP.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{5E25D72B-843A-4591-B6F0-5BE88F64006D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeGameCPP.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\EscapeGameCPPEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9CA0172B-0E73-4D6A-B0EC-C48710FE67D8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\EscapeGameCPP">
+      <UniqueIdentifier>{F00B4210-5C1F-413F-BD74-3323272B76B0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\EscapeGameCPP\EscapeGameCPP.Build.cs">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\EscapeGameCPP\EscapeGameCPP.cpp">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeGameCPP\EscapeGameCPP.h">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeGameCPP\EscapeGameCPPCharacter.cpp">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeGameCPP\EscapeGameCPPCharacter.h">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeGameCPP\EscapeGameCPPGameMode.cpp">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeGameCPP\EscapeGameCPPGameMode.h">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeGameCPP\EscapeGameCPPHUD.cpp">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeGameCPP\EscapeGameCPPHUD.h">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\EscapeGameCPP\EscapeGameCPPProjectile.cpp">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\EscapeGameCPP\EscapeGameCPPProjectile.h">
+      <Filter>Source\EscapeGameCPP</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

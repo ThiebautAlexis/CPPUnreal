@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-EscapeGameCPP.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\EscapeGameCPPEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPP.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPCharacter.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPGameMode.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPHUD.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPProjectile.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPP.init.gen.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPCharacter.gen.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPGameMode.gen.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPHUD.gen.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\EscapeGameCPPProjectile.gen.cpp.obj"
+"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\Default.rc2.res"
+/OUT:"C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\UE4Editor-EscapeGameCPP.lib"
+/INCLUDE:IMPLEMENT_MODULE_EscapeGameCPP

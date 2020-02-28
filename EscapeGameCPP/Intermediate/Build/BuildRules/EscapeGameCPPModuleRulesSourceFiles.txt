@@ -1,0 +1,3 @@
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Source\EscapeGameCPP\EscapeGameCPP.Build.cs
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Source\EscapeGameCPP.Target.cs
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Source\EscapeGameCPPEditor.Target.cs

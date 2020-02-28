@@ -1,0 +1,20 @@
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Development\EscapeGameCPP\Definitions.EscapeGameCPP.h
+c:\users\brassart_s03_alien3\documents\unreal projects\cppunreal\escapegamecpp\source\escapegamecpp\EscapeGameCPPGameMode.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Inc\EscapeGameCPP\EscapeGameCPPGameMode.generated.h
+c:\users\brassart_s03_alien3\documents\unreal projects\cppunreal\escapegamecpp\source\escapegamecpp\EscapeGameCPPHUD.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUD.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/HUDHitBox.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/DebugTextInfo.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\DebugTextInfo.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\HUD.generated.h
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Inc\EscapeGameCPP\EscapeGameCPPHUD.generated.h
+c:\users\brassart_s03_alien3\documents\unreal projects\cppunreal\escapegamecpp\source\escapegamecpp\EscapeGameCPPCharacter.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/Character.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/RootMotionSource.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\RootMotionSource.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Character.generated.h
+C:\Users\Brassart_S03_Alien3\Documents\Unreal Projects\CPPUnreal\EscapeGameCPP\Intermediate\Build\Win64\UE4Editor\Inc\EscapeGameCPP\EscapeGameCPPCharacter.generated.h

@@ -1,0 +1,1209 @@
+﻿Log file open, 02/28/20 16:49:20
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeGameCPP
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.101454
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700 CPU @ 3.60GHz, GPU: NVIDIA GeForce GTX 1050 Ti
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=VaulkharAlexei -epicuserid=a74ad4b3871b40089be5e355dc705dab -epiclocale=fr
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2020.02.28-15.49.21:176][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2020.02.28-15.49.21:177][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:177][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:180][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-15.49.21:180][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-15.49.21:181][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-15.49.21:181][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-15.49.21:181][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2020.02.28-15.49.21:184][  0]LogHAL: Display: Platform has ~ 16 GB [17078587392 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2020.02.28-15.49.21:184][  0]LogInit: Going up to parent DeviceProfile []
+[2020.02.28-15.49.21:184][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2020.02.28-15.49.21:184][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Scalability.ini]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2020.02.28-15.49.21:185][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2020.02.28-15.49.21:335][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2020.02.28-15.49.21:335][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2020.02.28-15.49.21:335][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Config/Windows/Engine.ini]
+[2020.02.28-15.49.21:335][  0]LogInit: Computer: DESKTOP-UQI8LO8
+[2020.02.28-15.49.21:335][  0]LogInit: User: BrassartS03Alien3
+[2020.02.28-15.49.21:335][  0]LogInit: CPU Page size=4096, Cores=4
+[2020.02.28-15.49.21:335][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2020.02.28-15.49.21:336][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2020.02.28-15.49.21:336][  0]LogMemory: Platform Memory Stats for Windows
+[2020.02.28-15.49.21:336][  0]LogMemory: Process Physical Memory: 100.33 MB used, 100.34 MB peak
+[2020.02.28-15.49.21:336][  0]LogMemory: Process Virtual Memory: 88.47 MB used, 88.47 MB peak
+[2020.02.28-15.49.21:336][  0]LogMemory: Physical Memory: 7804.91 MB used,  8482.50 MB free, 16287.41 MB total
+[2020.02.28-15.49.21:336][  0]LogMemory: Virtual Memory: 4656.43 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2020.02.28-15.49.21:338][  0]LogWindows: WindowsPlatformFeatures enabled
+[2020.02.28-15.49.21:356][  0]LogInit: Using OS detected language (fr-FR).
+[2020.02.28-15.49.21:356][  0]LogInit: Using OS detected locale (fr-FR).
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationManager: No specific localization for 'fr-FR' exists, so the 'fr' localization will be used.
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/fr/Editor.locres' could not be opened for reading!
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/fr/EditorTutorials.locres' could not be opened for reading!
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/fr/Keywords.locres' could not be opened for reading!
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/fr/Category.locres' could not be opened for reading!
+[2020.02.28-15.49.21:357][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/fr/ToolTips.locres' could not be opened for reading!
+[2020.02.28-15.49.21:358][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/fr/PropertyNames.locres' could not be opened for reading!
+[2020.02.28-15.49.21:358][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/fr/Engine.locres' could not be opened for reading!
+[2020.02.28-15.49.21:358][  0]LogInit: Setting process to per monitor DPI aware
+[2020.02.28-15.49.21:394][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.49.21:394][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.49.21:525][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-15.49.21:525][  0]LogD3D11RHI: D3D11 adapters:
+[2020.02.28-15.49.21:593][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2020.02.28-15.49.21:593][  0]LogD3D11RHI:       4018/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2020.02.28-15.49.21:621][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2020.02.28-15.49.21:621][  0]LogD3D11RHI:       128/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2020.02.28-15.49.21:623][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2020.02.28-15.49.21:623][  0]LogD3D11RHI:       0/0/8143 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2020.02.28-15.49.21:623][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2020.02.28-15.49.21:629][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2020.02.28-15.49.21:630][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2020.02.28-15.49.21:630][  0]LogWindows: EnumDisplayDevices:
+[2020.02.28-15.49.21:630][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1050 Ti' (P:1 D:1)
+[2020.02.28-15.49.21:630][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:1)
+[2020.02.28-15.49.21:630][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.02.28-15.49.21:630][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2020.02.28-15.49.21:631][  0]LogWindows:    4. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.28-15.49.21:631][  0]LogWindows:    5. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.28-15.49.21:631][  0]LogWindows:    6. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2020.02.28-15.49.21:631][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2020.02.28-15.49.21:631][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2020.02.28-15.49.21:631][  0]LogD3D11RHI:   Driver Version: 441.12 (internal:26.21.14.4112, unified:441.12)
+[2020.02.28-15.49.21:631][  0]LogD3D11RHI:      Driver Date: 10-24-2019
+[2020.02.28-15.49.21:631][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2020.02.28-15.49.21:668][  0]LogD3D11RHI: Async texture creation enabled
+[2020.02.28-15.49.21:680][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2020.02.28-15.49.21:951][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2020.02.28-15.49.21:958][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2020.02.28-15.49.21:966][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2020.02.28-15.49.21:976][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2020.02.28-15.49.21:984][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2020.02.28-15.49.21:991][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2020.02.28-15.49.21:999][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2020.02.28-15.49.22:007][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2020.02.28-15.49.22:011][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2020.02.28-15.49.22:041][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2020.02.28-15.49.22:042][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2020.02.28-15.49.22:056][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2020.02.28-15.49.22:056][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2020.02.28-15.49.22:069][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2020.02.28-15.49.22:069][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2020.02.28-15.49.22:074][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2020.02.28-15.49.22:081][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2020.02.28-15.49.22:087][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2020.02.28-15.49.22:094][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2020.02.28-15.49.22:115][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2020.02.28-15.49.22:115][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2020.02.28-15.49.22:115][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2020.02.28-15.49.22:123][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2020.02.28-15.49.22:174][  0]LogShaderCompilers: Guid format shader working directory is -34 characters bigger than the processId version (../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Intermediate/Shaders/WorkingDirectory/20528/).
+[2020.02.28-15.49.22:174][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Brassart_S03_Alien3/AppData/Local/Temp/UnrealShaderWorkingDir/D0B8166E415F950181B144960E2E7A9D/'.
+[2020.02.28-15.49.22:177][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2020.02.28-15.49.22:177][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2020.02.28-15.49.22:177][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2020.02.28-15.49.22:731][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2020.02.28-15.49.25:103][  0]LogDerivedDataCache: Loaded boot cache 2.37s 77MB C:/Users/Brassart_S03_Alien3/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.28-15.49.25:103][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Brassart_S03_Alien3/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2020.02.28-15.49.25:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2020.02.28-15.49.25:104][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2020.02.28-15.49.25:104][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-15.49.25:104][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2020.02.28-15.49.25:113][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2020.02.28-15.49.25:113][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2020.02.28-15.49.25:113][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2020.02.28-15.49.25:115][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Brassart_S03_Alien3/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2020.02.28-15.49.25:115][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2020.02.28-15.49.25:115][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2020.02.28-15.49.25:138][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2020.02.28-15.49.25:140][  0]LogSlate: Using FreeType 2.6.0
+[2020.02.28-15.49.26:332][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2020.02.28-15.49.32:997][  0]LogAssetRegistry: FAssetRegistry took 0.0019 seconds to start up
+[2020.02.28-15.49.33:218][  0]LogInit: Selected Device Profile: [Windows]
+[2020.02.28-15.49.33:462][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2020.02.28-15.49.33:462][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2020.02.28-15.49.33:462][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2020.02.28-15.49.33:462][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2020.02.28-15.49.33:462][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2020.02.28-15.49.33:470][  0]LogNetVersion: EscapeGameCPP 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 585383618)
+[2020.02.28-15.49.33:942][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.154582 seconds
+[2020.02.28-15.49.33:948][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2020.02.28-15.49.33:948][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2020.02.28-15.49.33:948][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2020.02.28-15.49.43:947][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2020.02.28-15.49.44:057][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2020.02.28-15.49.48:468][  0]SourceControl: Source control is disabled
+[2020.02.28-15.49.48:468][  0]SourceControl: Source control is disabled
+[2020.02.28-15.49.48:469][  0]SourceControl: Source control is disabled
+[2020.02.28-15.49.48:470][  0]SourceControl: Source control is disabled
+[2020.02.28-15.49.49:345][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2020.02.28-15.49.49:812][  0]LogOcInput: OculusInput pre-init called
+[2020.02.28-15.49.49:818][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2020.02.28-15.49.49:818][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2020.02.28-15.49.50:102][  0]LogEngine: Initializing Engine...
+[2020.02.28-15.49.50:103][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2020.02.28-15.49.50:104][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2020.02.28-15.49.50:312][  0]LogInit: Initializing FReadOnlyCVARCache
+[2020.02.28-15.49.50:325][  0]LogAIModule: Creating AISystem for world Untitled
+[2020.02.28-15.49.50:349][  0]LogInit: XAudio2 using 'Acer ET221Q (2- NVIDIA High Definition Audio)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2020.02.28-15.49.50:426][  0]LogInit: FAudioDevice initialized.
+[2020.02.28-15.49.50:426][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2020.02.28-15.49.51:615][  0]LogDerivedDataCache: Saved boot cache 1.19s 80MB C:/Users/Brassart_S03_Alien3/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2020.02.28-15.49.51:628][  0]LogInit: Texture streaming: Enabled
+[2020.02.28-15.49.51:648][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2020.02.28-15.49.51:648][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2020.02.28-15.49.51:649][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2020.02.28-15.49.51:671][  0]LogInit: Transaction tracking system initialized
+[2020.02.28-15.49.51:703][  0]BlueprintLog: New page: Editor Load
+[2020.02.28-15.49.52:473][  0]LocalizationService: Localization service is disabled
+[2020.02.28-15.49.53:744][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/' took 0.00s
+[2020.02.28-15.49.53:745][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2020.02.28-15.49.53:745][  0]LogCook: Display: Mobile HDR setting 1
+[2020.02.28-15.50.01:904][  0]SourceControl: Source control is disabled
+[2020.02.28-15.50.02:270][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 C:/Program Files/Epic Games/UE_4.23/FeaturePacks/StarterContent.upack)
+[2020.02.28-15.50.03:195][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2020.02.28-15.50.03:461][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2020.02.28-15.50.03:627][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2020.02.28-15.50.03:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2020.02.28-15.50.03:932][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2020.02.28-15.50.03:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2020.02.28-15.50.04:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2020.02.28-15.50.04:141][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2020.02.28-15.50.04:169][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2020.02.28-15.50.04:219][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2020.02.28-15.50.04:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2020.02.28-15.50.04:407][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2020.02.28-15.50.04:495][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Collapse01.uasset"
+[2020.02.28-15.50.04:519][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Collapse02.uasset"
+[2020.02.28-15.50.04:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2020.02.28-15.50.04:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Explosion01.uasset"
+[2020.02.28-15.50.04:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Explosion02.uasset"
+[2020.02.28-15.50.04:707][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2020.02.28-15.50.04:739][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Fire01.uasset"
+[2020.02.28-15.50.04:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2020.02.28-15.50.04:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2020.02.28-15.50.05:004][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2020.02.28-15.50.05:034][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Light01.uasset"
+[2020.02.28-15.50.05:064][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2020.02.28-15.50.05:166][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Light02.uasset"
+[2020.02.28-15.50.05:209][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2020.02.28-15.50.05:450][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Smoke01.uasset"
+[2020.02.28-15.50.05:566][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2020.02.28-15.50.05:647][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2020.02.28-15.50.05:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2020.02.28-15.50.05:865][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2020.02.28-15.50.05:904][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2020.02.28-15.50.06:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2020.02.28-15.50.06:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2020.02.28-15.50.06:156][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Steam01.uasset"
+[2020.02.28-15.50.06:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2020.02.28-15.50.06:392][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2020.02.28-15.50.06:478][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2020.02.28-15.50.06:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2020.02.28-15.50.06:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2020.02.28-15.50.06:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2020.02.28-15.50.06:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2020.02.28-15.50.06:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2020.02.28-15.50.06:905][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2020.02.28-15.50.06:925][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2020.02.28-15.50.06:955][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2020.02.28-15.50.06:986][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2020.02.28-15.50.07:082][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2020.02.28-15.50.07:165][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2020.02.28-15.50.07:281][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2020.02.28-15.50.07:642][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2020.02.28-15.50.08:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2020.02.28-15.50.10:346][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2020.02.28-15.50.10:504][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2020.02.28-15.50.12:733][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2020.02.28-15.50.13:953][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/Minimal_Default.umap"
+[2020.02.28-15.50.14:768][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2020.02.28-15.50.15:288][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/StarterMap.umap"
+[2020.02.28-15.50.17:511][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2020.02.28-15.50.18:287][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2020.02.28-15.50.18:320][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2020.02.28-15.50.18:927][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2020.02.28-15.50.19:007][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2020.02.28-15.50.19:074][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2020.02.28-15.50.19:832][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2020.02.28-15.50.20:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2020.02.28-15.50.21:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2020.02.28-15.50.22:338][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2020.02.28-15.50.23:049][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2020.02.28-15.50.23:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2020.02.28-15.50.23:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2020.02.28-15.50.23:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2020.02.28-15.50.23:814][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2020.02.28-15.50.24:410][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2020.02.28-15.50.24:445][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2020.02.28-15.50.24:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2020.02.28-15.50.24:700][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Glass.uasset"
+[2020.02.28-15.50.25:618][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2020.02.28-15.50.25:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2020.02.28-15.50.26:394][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2020.02.28-15.50.27:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2020.02.28-15.50.27:612][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2020.02.28-15.50.27:782][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2020.02.28-15.50.28:249][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2020.02.28-15.50.28:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2020.02.28-15.50.28:951][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2020.02.28-15.50.29:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2020.02.28-15.50.29:352][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2020.02.28-15.50.29:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2020.02.28-15.50.29:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2020.02.28-15.50.29:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2020.02.28-15.50.30:384][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2020.02.28-15.50.30:487][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2020.02.28-15.50.30:571][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2020.02.28-15.50.30:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2020.02.28-15.50.31:155][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2020.02.28-15.50.31:549][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2020.02.28-15.50.31:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2020.02.28-15.50.31:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2020.02.28-15.50.32:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2020.02.28-15.50.32:291][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2020.02.28-15.50.32:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2020.02.28-15.50.32:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2020.02.28-15.50.32:966][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Explosion.uasset"
+[2020.02.28-15.50.33:383][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Fire.uasset"
+[2020.02.28-15.50.33:480][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Smoke.uasset"
+[2020.02.28-15.50.33:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Sparks.uasset"
+[2020.02.28-15.50.34:128][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2020.02.28-15.50.34:215][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2020.02.28-15.50.34:363][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2020.02.28-15.50.34:415][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2020.02.28-15.50.34:499][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2020.02.28-15.50.34:532][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2020.02.28-15.50.34:622][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2020.02.28-15.50.34:829][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2020.02.28-15.50.34:880][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2020.02.28-15.50.34:916][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2020.02.28-15.50.34:980][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2020.02.28-15.50.35:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/MaterialSphere.uasset"
+[2020.02.28-15.50.35:875][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Bush.uasset"
+[2020.02.28-15.50.36:975][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Chair.uasset"
+[2020.02.28-15.50.37:489][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2020.02.28-15.50.37:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Couch.uasset"
+[2020.02.28-15.50.37:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Door.uasset"
+[2020.02.28-15.50.37:784][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2020.02.28-15.50.37:887][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2020.02.28-15.50.37:924][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2020.02.28-15.50.38:110][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2020.02.28-15.50.38:191][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2020.02.28-15.50.38:217][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2020.02.28-15.50.38:302][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2020.02.28-15.50.38:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Rock.uasset"
+[2020.02.28-15.50.39:473][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Shelf.uasset"
+[2020.02.28-15.50.40:254][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Stairs.uasset"
+[2020.02.28-15.50.40:840][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_Statue.uasset"
+[2020.02.28-15.50.41:409][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_TableRound.uasset"
+[2020.02.28-15.50.41:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2020.02.28-15.50.42:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2020.02.28-15.50.42:620][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2020.02.28-15.50.42:672][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2020.02.28-15.50.42:726][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2020.02.28-15.50.42:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2020.02.28-15.50.43:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2020.02.28-15.50.43:274][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2020.02.28-15.50.43:332][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2020.02.28-15.50.43:485][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2020.02.28-15.50.43:530][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2020.02.28-15.50.43:567][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2020.02.28-15.50.43:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2020.02.28-15.50.43:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2020.02.28-15.50.43:696][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2020.02.28-15.50.44:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2020.02.28-15.50.44:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2020.02.28-15.50.44:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2020.02.28-15.50.44:459][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2020.02.28-15.50.44:507][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2020.02.28-15.50.44:545][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2020.02.28-15.50.44:606][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2020.02.28-15.50.44:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2020.02.28-15.50.44:756][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2020.02.28-15.50.44:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2020.02.28-15.50.45:099][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2020.02.28-15.50.45:198][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2020.02.28-15.50.45:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2020.02.28-15.50.45:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2020.02.28-15.50.45:636][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2020.02.28-15.50.45:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2020.02.28-15.50.45:825][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2020.02.28-15.50.46:286][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2020.02.28-15.50.46:388][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2020.02.28-15.50.47:316][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2020.02.28-15.50.48:000][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2020.02.28-15.50.48:687][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2020.02.28-15.50.49:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2020.02.28-15.50.52:535][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2020.02.28-15.50.53:712][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2020.02.28-15.50.54:806][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2020.02.28-15.50.54:939][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2020.02.28-15.50.55:137][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2020.02.28-15.50.55:863][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2020.02.28-15.50.56:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2020.02.28-15.50.56:175][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2020.02.28-15.50.56:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2020.02.28-15.50.56:760][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2020.02.28-15.50.58:714][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2020.02.28-15.50.59:416][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2020.02.28-15.51.00:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2020.02.28-15.51.01:021][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2020.02.28-15.51.01:557][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2020.02.28-15.51.01:732][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2020.02.28-15.51.02:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2020.02.28-15.51.02:682][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2020.02.28-15.51.03:096][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2020.02.28-15.51.03:282][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2020.02.28-15.51.04:186][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2020.02.28-15.51.05:013][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2020.02.28-15.51.06:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2020.02.28-15.51.07:590][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2020.02.28-15.51.07:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2020.02.28-15.51.07:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2020.02.28-15.51.09:685][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2020.02.28-15.51.09:791][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2020.02.28-15.51.11:065][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2020.02.28-15.51.12:147][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2020.02.28-15.51.13:559][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2020.02.28-15.51.15:083][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2020.02.28-15.51.15:163][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2020.02.28-15.51.16:465][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Door_M.uasset"
+[2020.02.28-15.51.16:841][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Door_N.uasset"
+[2020.02.28-15.51.17:139][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2020.02.28-15.51.18:295][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2020.02.28-15.51.18:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2020.02.28-15.51.21:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2020.02.28-15.51.21:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2020.02.28-15.51.21:550][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2020.02.28-15.51.22:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2020.02.28-15.51.23:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2020.02.28-15.51.24:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2020.02.28-15.51.24:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2020.02.28-15.51.25:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2020.02.28-15.51.26:387][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2020.02.28-15.51.27:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2020.02.28-15.51.27:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2020.02.28-15.51.29:598][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2020.02.28-15.51.34:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2020.02.28-15.51.35:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2020.02.28-15.51.36:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2020.02.28-15.51.38:393][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2020.02.28-15.51.39:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2020.02.28-15.51.40:996][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2020.02.28-15.51.42:019][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2020.02.28-15.51.43:365][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2020.02.28-15.51.44:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2020.02.28-15.51.45:374][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2020.02.28-15.51.46:177][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2020.02.28-15.51.46:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2020.02.28-15.51.48:973][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2020.02.28-15.51.49:637][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2020.02.28-15.51.49:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2020.02.28-15.51.53:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2020.02.28-15.51.55:197][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2020.02.28-15.51.57:193][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2020.02.28-15.51.57:355][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2020.02.28-15.51.59:341][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2020.02.28-15.51.59:736][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2020.02.28-15.52.00:270][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2020.02.28-15.52.00:327][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2020.02.28-15.52.00:381][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2020.02.28-15.52.01:326][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2020.02.28-15.52.01:628][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2020.02.28-15.52.01:794][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2020.02.28-15.52.02:777][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2020.02.28-15.52.03:449][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2020.02.28-15.52.03:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2020.02.28-15.52.04:406][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2020.02.28-15.52.04:525][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2020.02.28-15.52.04:884][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2020.02.28-15.52.05:597][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2020.02.28-15.52.05:737][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2020.02.28-15.52.06:216][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2020.02.28-15.52.06:930][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Water_M.uasset"
+[2020.02.28-15.52.06:970][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Water_N.uasset"
+[2020.02.28-15.52.07:070][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2020.02.28-15.52.07:129][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2020.02.28-15.52.07:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2020.02.28-15.52.07:666][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2020.02.28-15.52.08:328][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2020.02.28-15.52.08:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2020.02.28-15.52.08:746][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2020.02.28-15.52.10:149][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2020.02.28-15.52.10:303][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2020.02.28-15.52.16:678][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2020.02.28-15.52.18:813][  0]LogSavePackage: Moving '../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Floor_400x400CB4CC3AE41EE703D435C2CA9025855B7.tmp' to '../../../../../../Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2020.02.28-15.52.19:150][  0]LogFeaturePack: Warning: Inserted 2 feature packs
+[2020.02.28-15.52.19:160][  0]LightingResults: New page: Lighting Build
+[2020.02.28-15.52.19:166][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-15.52.19:167][  0]MapCheck: New page: Map Check
+[2020.02.28-15.52.19:167][  0]LightingResults: New page: Lighting Build
+[2020.02.28-15.52.19:220][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 64X64)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 2048X2048)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 2048X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 64X64)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 64X32)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 2048X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_11 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_10 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 2048X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_14 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_12 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_8 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_13 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 2048X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_9 (G8, 1024X1024)
+[2020.02.28-15.52.22:206][  0]LogTexture: Display: Building textures: ShadowMapTexture2D_15 (G8, 32X32)
+[2020.02.28-15.52.22:251][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2020.02.28-15.52.29:956][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.02.28-15.52.29:977][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2020.02.28-15.52.29:977][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.02.28-15.52.29:977][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,141ms to complete.
+[2020.02.28-15.52.29:977][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 10.818
+[2020.02.28-15.52.34:514][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.52.34:621][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.52.34:630][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.52.34:637][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2020.02.28-15.52.35:037][  0]LogCollectionManager: Loaded 0 collections in 0.004218 seconds
+[2020.02.28-15.52.36:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Saved/Collections/' took 0.00s
+[2020.02.28-15.52.36:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/Developers/BrassartS03Alien3/Collections/' took 0.00s
+[2020.02.28-15.52.36:011][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Brassart_S03_Alien3/Documents/Unreal Projects/CPPUnreal/EscapeGameCPP/Content/Collections/' took 0.00s
+[2020.02.28-15.52.36:011][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000002 seconds
+[2020.02.28-15.52.36:021][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2867 classes and 682 folders.
+[2020.02.28-15.52.36:275][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.52.37:782][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.52.38:160][  0]LogContentBrowser: Native class hierarchy updated for 'WorldBrowser' in 0.0003 seconds. Added 2 classes and 3 folders.
+[2020.02.28-15.52.38:490][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 1 classes and 2 folders.
+[2020.02.28-15.52.39:590][  0]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2020.02.28-15.52.39:592][  0]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2020.02.28-15.52.39:947][  0]LogSlate: Took 0.027720 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2020.02.28-15.52.45:383][  0]LogRenderer: Reallocating scene render targets to support 1188x612 Format 10 NumSamples 1 (Frame:1).
+[2020.02.28-15.52.51:809][  0]LogSlate: Took 0.000320 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.02.28-15.52.59:387][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2020.02.28-15.52.59:387][  0]LogLoad: (Engine Initialization) Total time: 229.09 seconds
+[2020.02.28-15.52.59:387][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2020.02.28-15.53.00:606][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.02.28-15.54.17:710][479]LogAssetRegistry: Asset discovery search completed in 284.7145 seconds
+[2020.02.28-15.54.17:713][479]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000005 seconds (found 0 objects)
+[2020.02.28-15.54.17:713][479]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000039 seconds (updated 0 objects)
+[2020.02.28-15.55.59:827][817]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={983CFBA0-4FF9-4E91-F29D-7F8D1D28B4BD}
+[2020.02.28-15.59.40:494][145]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.02.28-15.59.40:974][159]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2020.02.28-15.59.44:721][159]LogSlate: Window 'EscapeGameCPP - Unreal Editor' being destroyed
+[2020.02.28-15.59.47:498][160]Cmd: QUIT_EDITOR
+[2020.02.28-15.59.47:538][160]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2020.02.28-15.59.47:825][160]LogExit: Preparing to exit.
+[2020.02.28-15.59.48:519][160]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-15.59.48:540][160]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2020.02.28-15.59.48:541][160]LogExit: Editor shut down
+[2020.02.28-15.59.48:541][160]LogExit: Transaction tracking system shut down
+[2020.02.28-15.59.48:542][160]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2020.02.28-15.59.49:137][160]LogExit: Object subsystem successfully closed.
+[2020.02.28-15.59.49:156][160]LogShaderCompilers: Display: Shaders left to compile 0
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (672)
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module SceneOutliner (670)
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module WorldBrowser (668)
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2020.02.28-15.59.49:178][160]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module StatsViewer (658)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (656)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module FoliageEdit (654)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module LandscapeEditor (652)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MeshPaintMode (650)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (648)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module ActorPickerMode (646)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module GeometryMode (644)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module TextureAlignMode (642)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module BspMode (640)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (638)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (636)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AutomationWorker (634)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module OculusMR (632)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (630)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (628)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (626)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module PlacementMode (625)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MaterialEditor (624)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (620)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (618)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (616)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (614)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (612)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module WebMMedia (610)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (608)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (606)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module SequenceRecorder (605)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (602)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (600)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (598)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (596)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (594)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (592)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (590)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (588)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (586)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (584)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (582)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module CharacterAI (580)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module SmartSnapping (578)
+[2020.02.28-15.59.49:179][160]LogModuleManager: Shutting down and abandoning module SessionServices (576)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module MeshPaint (574)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module ViewportSnapping (572)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module ViewportInteraction (570)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module ClothPainter (568)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (567)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module LogVisualizer (564)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module IntroTutorials (562)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (561)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (558)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (556)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (554)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (552)
+[2020.02.28-15.59.49:180][160]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (551)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (548)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (546)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (544)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (542)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (540)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module InputBindingEditor (538)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module MergeActors (536)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (534)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module LocalizationService (533)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module HardwareTargeting (530)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (528)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module UndoHistory (526)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module XmlParser (524)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module Blutility (522)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (520)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (519)
+[2020.02.28-15.59.49:851][160]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (516)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module SettingsEditor (514)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module ProjectLauncher (512)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module SessionFrontend (510)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module ProfilerClient (508)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module DeviceManager (506)
+[2020.02.28-15.59.49:852][160]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (505)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module AutomationController (502)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module AutomationWindow (500)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module Layers (498)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (496)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module DetailCustomizations (494)
+[2020.02.28-15.59.49:895][160]LogModuleManager: Shutting down and abandoning module PackagesDialog (492)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (490)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module Persona (488)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (487)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module AnimGraph (485)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module Kismet (482)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module KismetWidgets (481)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module GraphEditor (478)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module StructViewer (476)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module ClassViewer (474)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module Toolbox (472)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module DesktopPlatform (471)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2020.02.28-15.59.49:920][160]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2020.02.28-15.59.49:921][160]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (430)
+[2020.02.28-15.59.49:924][160]LogModuleManager: Shutting down and abandoning module ProfilerService (428)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module TaskGraph (426)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module ScreenshotTools (424)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module SteamVRController (422)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (420)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (418)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module OculusEditor (416)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module OculusInput (414)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (412)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module EditableMesh (410)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (408)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module CableComponent (406)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module AudioCapture (404)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (402)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (400)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module AppleImageUtils (398)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module AndroidPermission (396)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (394)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (392)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module MediaCompositing (390)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module ImgMedia (388)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (386)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (384)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (382)
+[2020.02.28-15.59.49:996][160]LogModuleManager: Shutting down and abandoning module HTML5Networking (380)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (378)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (376)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module BackChannel (374)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (372)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module AutomationUtils (370)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module AlembicImporter (368)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module AlembicLibrary (367)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module GeometryCache (366)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (365)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module VariantManagerContent (360)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (358)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (356)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module PluginBrowser (354)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (352)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (350)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module CurveEditorTools (348)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module CurveEditor (347)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (344)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module CryptoKeys (342)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (340)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (338)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module UObjectPlugin (336)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (334)
+[2020.02.28-15.59.49:997][160]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (332)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module GitSourceControl (330)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module SourceControl (329)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (326)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (324)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (322)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (320)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (318)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (316)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (314)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module Paper2DEditor (312)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module EscapeGameCPP (310)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2020.02.28-15.59.49:998][160]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2020.02.28-15.59.50:099][160]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2020.02.28-15.59.50:199][160]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2020.02.28-15.59.50:199][160]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2020.02.28-15.59.50:201][160]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2020.02.28-15.59.50:201][160]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2020.02.28-15.59.50:202][160]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2020.02.28-15.59.50:202][160]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2020.02.28-15.59.50:202][160]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2020.02.28-15.59.50:204][160]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2020.02.28-15.59.50:205][160]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module Core (186)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2020.02.28-15.59.50:207][160]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2020.02.28-15.59.50:300][160]LogDerivedDataCache: Shutdown
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2020.02.28-15.59.50:300][160]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2020.02.28-15.59.50:302][160]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2020.02.28-15.59.50:302][160]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2020.02.28-15.59.50:302][160]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2020.02.28-15.59.50:302][160]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2020.02.28-15.59.50:302][160]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2020.02.28-15.59.50:303][160]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2020.02.28-15.59.50:303][160]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2020.02.28-15.59.50:304][160]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2020.02.28-15.59.50:304][160]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2020.02.28-15.59.50:313][160]LogHMD: Freeing OpenVRDLLHandle.
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2020.02.28-15.59.50:313][160]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2020.02.28-15.59.50:314][160]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2020.02.28-15.59.50:314][160]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2020.02.28-15.59.50:347][160]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2020.02.28-15.59.50:347][160]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2020.02.28-15.59.50:347][160]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B75755E36-460A-B93F-72F0-ABBB4BD86051%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=7e2547f1416ec6872ab2a89e17c3cb66%7Ca74ad4b3871b40089be5e355dc705dab%7C49769393-020b-4632-acf6-d11e3ec7dd3d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2020.02.28-15.59.50:363][160]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2020.02.28-15.59.50:364][160]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2020.02.28-15.59.50:366][160]LogModuleManager: Shutting down and abandoning module Media (51)
+[2020.02.28-15.59.50:366][160]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2020.02.28-15.59.50:366][160]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2020.02.28-15.59.50:367][160]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2020.02.28-15.59.50:368][160]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2020.02.28-15.59.50:368][160]LogD3D11RHI: Shutdown
+[2020.02.28-15.59.50:368][160]LogD3D11RHI: CleanupD3DDevice
+[2020.02.28-15.59.50:369][160]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.28-15.59.50:369][160]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.28-15.59.50:369][160]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2020.02.28-15.59.50:433][160]LogD3D11RHI: ~FD3D11DynamicRHI
+[2020.02.28-15.59.50:441][160]LogExit: Exiting.
+[2020.02.28-15.59.50:462][160]Log file closed, 02/28/20 16:59:50
